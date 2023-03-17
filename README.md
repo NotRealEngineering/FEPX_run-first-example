@@ -4,7 +4,7 @@ This is the guide mentioned in the following video:
 
 FEPX tutorial part -2 | How to run example? | CPFEM
 
-Link of video: https://youtu.be/DwlhjnHtk3E
+Link of video: 
 
 Email: notrealengineering@gmail.com
 
